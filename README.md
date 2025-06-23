@@ -10,7 +10,7 @@
 - [PuppyGit রিপোজিটরিতে বাংলা অনুবাদ ফাইল](https://github.com/catpuppyapp/PuppyGit/blame/main/app/src/main/res/values-bn/strings.xml)  
 
 ***যদি আপনি বাংলা অনুবাদে কোনো ভুল বা অসঙ্গতি খুঁজে পান, দয়া করে আমাদের জানান।***  
-আপনি চাইলে আমাদের সাথে অনুবাদক হিসেবে যোগ দিতে পারেন। এর জন্য [এই রিপোজিটরিতে একটি Issue (আবেদন) তৈরি করুন](https://github.com/triksterr/PuppyGit-translation/issues)।  
+আপনি চাইলে আমাদের সাথে অনুবাদক হিসেবে যোগ দিতে পারেন। এর জন্য [এই রিপোজিটরিতে একটি Issue (আবেদন) তৈরি করুন](https://github.com/kamilhussen24/PuppyGit-translation/issues)।  
 
 **PuppyGit** বাংলা ভাষায় আরামদায়ক এবং সুন্দরভাবে ব্যবহার করার জন্য শুভকামনা!
 
