@@ -553,7 +553,7 @@
     <string name="cherrypick_abort_err">চেরিপিক বাতিল ত্রুটি</string>
     <string name="cherrypick_aborted">চেরিপিক বাতিল</string>
     <string name="cherrypick_continue_err">চেরিপিক চালিয়ে যাওয়ার ত্রুটি</string>
-    <string name="creating_patch">প্যাচ তৈরি করছে...</string>
+    <string name="creating_patch">প্যাচ তৈরি করছে…</string>
     <string name="will_create_patch_for_selected_files_are_you_sure">নির্বাচিত ফাইলগুলোর জন্য প্যাচ তৈরি করবে, আপনি কি নিশ্চিত?</string>
     <string name="copy_path">পাথ কপি</string>
     <string name="committer">কমিটার</string>
@@ -636,7 +636,7 @@
     <string name="grant_permission">অনুমতি দিন</string>
     <string name="please_grant_permission_before_you_add_a_storage_path">স্টোরেজ পাথ যোগ করার আগে অনুমতি দিন</string>
     <string name="cross_icon_for_choose_folder">ফোল্ডার নির্বাচনের জন্য ক্রস আইকন</string>
-    <string name="please_go_to_system_settings">সিস্টেম সেটিংসে গিয়ে স্টোরেজ পরিচালনার অনুমতি দিন</string>
+    <string name="please_go_to_system_settings_allow_manage_storage">সিস্টেম সেটিংসে গিয়ে স্টোরেজ পরিচালনার অনুমতি দিন</string>
     <string name="storage">স্টোরেজ</string>
     <string name="cant_read_path">পাথ পড়া যাচ্ছে না</string>
     <string name="import_repo">রিপো আমদানি</string>
@@ -649,7 +649,7 @@
     <string name="rename_repo">রিপো পুনঃনামকরণ</string>
     <string name="new_name">নতুন নাম</string>
     <string name="name_has_illegal_chars">নামে অবৈধ অক্ষর রয়েছে</string>
-    <string name="renaming">পুনঃনামকরণ করছে...</string>
+    <string name="renaming">পুনঃনামকরণ করছে…</string>
     <string name="import_as_repo">রিপো হিসেবে আমদানি</string>
     <string name="no_dir_selected">কোনো ডিরেক্টরি নির্বাচিত নয়</string>
     <string name="paths_are_repo_parent_dir">পাথগুলো রিপোর প্যারেন্ট ডিরেক্টরি</string>
@@ -672,7 +672,7 @@
     <string name="recursive">পুনরাবৃত্তিমূলক</string>
     <string name="update">আপডেট</string>
     <string name="recursive_clone_submodule_nested_loop_warn">সতর্কতা: সাবধান! যদি আপনার রিপোতে নেস্টেড লুপ থাকে, তবে এটি আপনার ডিভাইসের স্টোরেজ ফুরিয়ে যাওয়া পর্যন্ত অসীমভাবে ক্লোন করবে!</string>
-    <string name="recursive_update_submodule_nested_loop">সতর্কতা: সাবধান! অনুগ্রহ করে নিশ্চিত করুন যে আপনার রিপোতে নেস্টেড লুপ নেই!</string>
+    <string name="recursive_update_submodule_nested_loop_warn">সতর্কতা: সাবধান! অনুগ্রহ করে নিশ্চিত করুন যে আপনার রিপোতে নেস্টেড লুপ নেই!</string>
     <string name="no_submodules_found">কোনো সাবমডিউল পাওয়া যায়নি</string>
     <string name="full_path">পূর্ণ পাথ</string>
     <string name="checkout_to_recorded_commit">রেকর্ডকৃত কমিটে চেকআউট</string>
@@ -683,7 +683,7 @@
     <string name="copy_full_path">পূর্ণ পাথ কপি</string>
     <string name="will_sync_info_from_gitmodules_to_selected_configs">.gitmodules থেকে নির্বাচিত কনফিগে তথ্য সিঙ্ক করবে</string>
     <string name="submodule">সাবমডিউল</string>
-    <string name="updating">আপডেট করছে...</string>
+    <string name="updating">আপডেট করছে…</string>
     <string name="resolve_submodule_failed">সাবমডিউল রিসলভ করতে ব্যর্থ</string>
     <string name="sync_configs">কনফিগ সিঙ্ক</string>
     <string name="del_config">কনফিগ মুছুন</string>
@@ -696,7 +696,7 @@
     <string name="most_time_need_not_do_init_repo_by_yourself">নোট: বেশিরভাগ সময় আপনার নিজে রিপো ইনিশিয়ালাইজ করার দরকার নেই, এটি রিপো ক্লোন করার সময় করা উচিত।</string>
     <string name="will_try_restore_git_file_for_selected_submodules">নির্বাচিত সাবমডিউলের জন্য .git ফাইল পুনরুদ্ধার করার চেষ্টা করবে।</string>
     <string name="most_time_need_not_restore_dot_git_file_by_yourself">নোট: বেশিরভাগ সময় আপনার নিজে .git ফাইল পুনরুদ্ধার করার দরকার নেই, এটি প্রয়োজন হলে স্বয়ংক্রিয়ভাবে পুনরুদ্ধার হওয়া উচিত।</string>
-    <string name="restoring">পুনরুদ্ধার করছে...</string>
+    <string name="restoring">পুনরুদ্ধার করছে…</string>
     <string name="go_parent">প্যারেন্টে যান</string>
     <string name="will_import_selected_submodules_to_repos">নির্বাচিত সাবমডিউলগুলো রিপোতে আমদানি করবে, তারপর আপনি সাধারণ রিপোর মতো এগুলো পরিচালনা করতে পারবেন।</string>
     <string name="submodule_invalid_url_err">ত্রুটি: অবৈধ ইউআরএল, যদি আপনি সাবমডিউল মুছে থাকেন, তবে পরিবর্তনগুলো কমিট করতে চেঞ্জলিস্টে যেতে হতে পারে</string>
@@ -709,10 +709,10 @@
     <string name="credential_match_by_domain_note">ডোমেইন দ্বারা প্রমাণপত্র মিলবে, আপনি ‘প্রমাণপত্র ব্যবস্থাপক’ পৃষ্ঠায় ডোমেইন এবং প্রমাণপত্র লিঙ্ক করতে পারেন</string>
     <string name="credential_match_by_domain_note_short">ডোমেইন দ্বারা প্রমাণপত্র মিল</string>
     <string name="reset_to_target">টার্গেটে রিসেট</string>
-    <string name="resetting">রিসেট করছে...</string>
+    <string name="resetting">রিসেট করছে…</string>
     <string name="done">সম্পন্ন</string>
     <string name="reload_submodule_note">নির্বাচিত সাবমডিউল পুনরায় লোড করবে। \n\nনোট: সাধারণত এটি করার প্রয়োজন নেই, যদি না আপনি মনে করেন যে তালিকায় সাবমডিউল তথ্য পুরানো।</string>
-    <string name="reloading">পুনরায় লোড করছে...</string>
+    <string name="reloading">পুনরায় লোড করছে…</string>
     <string name="diff_to_upstream">আপস্ট্রিমে পার্থক্য</string>
     <string name="upstream_oid_is_invalid">আপস্ট্রিম ওআইডি অবৈধ</string>
     <string name="compare_to_upstream">আপস্ট্রিমের সাথে তুলনা</string>
@@ -765,7 +765,7 @@
     <string name="group_content_by_line_num">লাইন নম্বর দ্বারা বিষয়বস্তু গ্রুপ</string>
     <string name="clear">মুছুন</string>
     <string name="clear_cache">ক্যাশ মুছুন</string>
-    <string name="cleaning">পরিষ্কার করছে...</string>
+    <string name="cleaning">পরিষ্কার করছে…</string>
     <string name="clean">পরিষ্কার</string>
     <string name="file_opened_history">ফাইল খোলার ইতিহাস</string>
     <string name="storage_paths">স্টোরেজ পাথ</string>
@@ -862,85 +862,85 @@
     <string name="selected_lines_already_compared">নির্বাচিত লাইনগুলো ইতিমধ্যে তুলনা করা হয়েছে</string>
     <string name="added_line_for_compare">তুলনার জন্য লাইন যোগ করা হয়েছে ph_a3f241dc_1</string>
     <string name="compare_to_origintype_linenum">মূল প্রকার+লাইন নম্বরে তুলনা: ph_a3f241dc_1</string>
-    <string name="comparing">তুলনা করছে...</string>
+    <string name="comparing">তুলনা করছে…</string>
     <string name="can_t_compare_both_context_type_lines">দুটি প্রেক্ষাপট প্রকারের লাইন তুলনা করা যায় না</string>
-    <string name="clear_compare">তুলনা মুচ্ছন"></string>
-    <string name="username_or_private_key">ব্যবহারকারীর নাম/ব্যক্তিগত কী"></string>
-    <string name="password_or_passphrase">পাসওয়ার্ড/পাসফ্রেজ"></string>
-    <string name="http_https_ssh">http/https/ssh"></string>
-    <string name="ssh_credential">এসএস প্রমাণপত্র"></string>
-    <string name="edit_known_hosts_file">‘known_hosts’ ফাইল সম্পাদনা"></string>
-    <string name="reset_known_hosts">‘known_hosts’ রিসেট"></string>
-    <string name="allow_unknown_hosts">অজানা হোস্টের অনুমতি দিন"></string>
-    <string name="confirm">নিশ্চিত করুন"></string>
-    <string name="will_reset_the_unknown_hosts_file">‘known_hosts’ ফাইল রিসেট করবে"></string>
-    <string name="forget_hostkeys">হোস্টকী ভুলে যান"></string>
-    <string name="if_any_will_allow_unknown_hosts_as_default_else_will_ask">If enable, অজানা হোস্টকে ডিফল্ট হিসেবে অনুমতি দেবে, অন্যথায় জিজ্ঞাসা করবে"></string>
-    <string name="after_forgetting_the_host_keys_may_ask_confirm_again">হোস্ট কী ভুলে যাওয়ার পর, আবার ssh-এর মাধ্যমে হোস্টে সংযোগ করার সময় পুনরায় নিশ্চিতকরণ জানতে পারে"></string>
-    <string name="unknown_host">অজানা হোস্ট"></string>
-    <string name="allow">অনুমতি দিন"></string>
-    <string name="reject">প্রত্যাখ্যান"></string>
-    <string name="trying_connect_to_unknown_host_only_allow_if_trust">অজানা হোস্টে সংযোগ করার চেষ্টা করছে। ফিঙ্গারপ্রিন্ট পর্যালোচনা করুন এবং শুধুমাত্র হোস্টের উপর ভরসা থাকলে অনুমতি দিন।"></string>
-    <string name="i_trust_the_host">আমি হোস্টের উপর ভরসা করি"></string>
-    <string name="aborted_unknown_host">বাতিল: অজানা হোস্ট"></string>
-    <string name="operation_aborted_after_allowing_maybe_retry">নোট: আপনার অপারেশন ইতিমধ্যে বাতিল হয়েছে, সংযোগ অনুমতি দেওয়ার পর আপনি পুনরায় চেষ্টা করতে পারেন"></string>
-    <string name="forget">ভুলে যান"></string>
-    <string name="allowed_plz_re_try_clone_fetch_push">অনুমতি দেওয়া হয়েছে, অনুগ্রহ করে ক্লোন/ফেচ/পুশ পুনরায় চেষ্টা করুন"></string>
-    <string name="http_s_credential">http(s) প্রমাণপত্র"></string>
-    <string name="http_s">http(s)"></string>
-    <string name="fetch_url">ফেচ ইউআরএল"></string>
-    <string name="fetching_remotename">ফেচ করছে: ph_a3f241dc_1...</string>
-    <string name="repo_state">রিপো অবস্থা"></string>
-    <string name="edited">সম্পাদিত"></string>
-    <string name="err_read_path_failed">ত্রুটি: পাথ পড়তে ব্যর্থ"></string>
-    <string name="view_and_sort">দেখুন এবং সাজান"></string>
-    <string name="ascend">ঊর্ধ্বক্রম"></string>
-    <string name="folder_first">প্রথমে ফোল্ডার"></string>
-    <string name="only_for_current_folder">শুধুমাত্র এই ফোল্ডারের জন্য"></string>
+    <string name="clear_compare">তুলনা মুচ্ছন</string>
+    <string name="username_or_private_key">ব্যবহারকারীর নাম/ব্যক্তিগত কী</string>
+    <string name="password_or_passphrase">পাসওয়ার্ড/পাসফ্রেজ</string>
+    <string name="http_https_ssh">http/https/ssh</string>
+    <string name="ssh_credential">এসএস প্রমাণপত্র</string>
+    <string name="edit_known_hosts_file">‘known_hosts’ ফাইল সম্পাদনা</string>
+    <string name="reset_known_hosts">‘known_hosts’ রিসেট</string>
+    <string name="allow_unknown_hosts">অজানা হোস্টের অনুমতি দিন</string>
+    <string name="confirm">নিশ্চিত করুন</string>
+    <string name="will_reset_the_unknown_hosts_file">‘known_hosts’ ফাইল রিসেট করবে</string>
+    <string name="forget_hostkeys">হোস্টকী ভুলে যান</string>
+    <string name="if_enable_will_allow_unknown_hosts_as_default_else_will_ask">If enable, অজানা হোস্টকে ডিফল্ট হিসেবে অনুমতি দেবে, অন্যথায় জিজ্ঞাসা করবে</string>
+    <string name="after_forgetting_the_host_keys_may_ask_confirm_again">হোস্ট কী ভুলে যাওয়ার পর, আবার ssh-এর মাধ্যমে হোস্টে সংযোগ করার সময় পুনরায় নিশ্চিতকরণ জানতে পারে</string>
+    <string name="unknown_host">অজানা হোস্ট</string>
+    <string name="allow">অনুমতি দিন</string>
+    <string name="reject">প্রত্যাখ্যান</string>
+    <string name="trying_connect_unknown_host_only_allow_if_trust">অজানা হোস্টে সংযোগ করার চেষ্টা করছে। ফিঙ্গারপ্রিন্ট পর্যালোচনা করুন এবং শুধুমাত্র হোস্টের উপর ভরসা থাকলে অনুমতি দিন।</string>
+    <string name="i_trust_the_host">আমি হোস্টের উপর ভরসা করি</string>
+    <string name="aborted_unknown_host">বাতিল: অজানা হোস্ট</string>
+    <string name="operation_aborted_after_allowing_maybe_retry">নোট: আপনার অপারেশন ইতিমধ্যে বাতিল হয়েছে, সংযোগ অনুমতি দেওয়ার পর আপনি পুনরায় চেষ্টা করতে পারেন</string>
+    <string name="forget">ভুলে যান</string>
+    <string name="allowed_plz_re_try_clone_fetch_push">অনুমতি দেওয়া হয়েছে, অনুগ্রহ করে ক্লোন/ফেচ/পুশ পুনরায় চেষ্টা করুন</string>
+    <string name="http_s_credential">http(s) প্রমাণপত্র</string>
+    <string name="http_s">http(s)</string>
+    <string name="fetch_url">ফেচ ইউআরএল</string>
+    <string name="fetching_remotename">ফেচ করছে: ph_a3f241dc_1…</string>
+    <string name="repo_state">রিপো অবস্থা</string>
+    <string name="edited">সম্পাদিত</string>
+    <string name="err_read_path_failed">ত্রুটি: পাথ পড়তে ব্যর্থ</string>
+    <string name="view_and_sort">দেখুন এবং সাজান</string>
+    <string name="ascend">ঊর্ধ্বক্রম</string>
+    <string name="folder_first">প্রথমে ফোল্ডার</string>
+    <string name="only_for_this_folder">শুধুমাত্র এই ফোল্ডারের জন্য</string>
     <string name="folder_n_file_m">ফোল্ডার: ph_a3f241dc_1, ফাইল: ph_a3f241dc_2</string>
-    <string name="recent_files">সাম্প্রতিক ফাইল"></string>
-    <string name="recent_files_is_empty">সাম্প্রতিক ফাইল খালি!"></string>
-    <string name="cleared">মুছে ফেলা হয়েছে"></string>
-    <string name="clear_clipboard_files">সাম্প্রতিক ফাইল তালিকা মুছে ফেলবে এবং তাদের শেষ সম্পাদিত অবস্থান ভুলে যাবে"></string>
-    <string name="match_by_words">শব্দ দ্বারা মিল"></string>
-    <string name="cache_your_input_into_editcache_dir_path">আপনার ইনপুট ‘ph_a3f241dc_1’-এ ক্যাশ করুন"></string>
-    <string name="switch_reference">রেফারেন্স পরিবর্তন"></string>
-    <string name="switch_item">আইটেম পরিবর্তন"></string>
-    <string name="count_n">গণনা: ph_a3f241dc_1"></string>
-    <string name="reference">রেফারেন্স"></string>
-    <string name="faq">প্রশ্নোত্তর"></string>
-    <string name="master_password">মাস্টার পাসওয়ার্ড"></string>
-    <string name="set_master_password">মাস্টার পাসওয়ার্ড সেট করুন"></string>
-    <string name="i_forgot_my_master_password">আমি আমার মাস্টার পাসওয়ার্ড ভুলে গেছি"></string>
-    <string name="recommend_go_to_settings_screen_set_a_master_password">নোট: প্রত্যেক ব্যবহারকারীকে সেটিংস স্ক্রিনে গিয়ে মাস্টার পাসওয়ার্ড সেট করার পরামর্শ দিই, এটি আপনার প্রমাণপত্র এনক্রিপ্ট করতে ব্যবহৃত হবে। যদি আপনি এটি সেট না করেন, তবে আপনার প্রমাণপত্রের পাসওয়ার্ড/পাসফ্রেজ একটি পাবলিক পাসওয়ার্ড দ্বারা এনক্রিপ্ট হবে, যা যথেষ্ট নিরাপদ নয়।"></string>
-    <string name="old_password">পুরানো পাসওয়ার্ড"></string>
-    <string name="new_password">নতুন পাসওয়ার্ড"></string>
-    <string name="clear_master_password_confirm">যদি আপনি মাস্টার পাসওয়ার্ড মুছে ফেলেন, তবে পুরানো মাস্টার পাসওয়ার্ড দিয়ে এনক্রিপ্ট করা প্রমাণপত্রের পাসওয়ার্ড/পাসফ্রেজ অ্যাক্সেস করতে পারবেন না, যতক্ষণ না আপনি সেগুলো আপডেট করেন"></string>
-    <string name="clear_master_password_ok_text">মুছুন"></string>
-    <string name="wrong_password">ভুল পাসওয়ার্ড"></string>
-    <string name="require_old_password">পুরানো পাসওয়ার্ড প্রয়োজন"></string>
-    <string name="leave_new_password_empty_if_dont_want_to_use_master_password">যদি আপনি মাস্টার পাসওয়ার্ড ব্যবহার করতে না চান তবে নতুন পাসওয়ার্ড খালি রাখুন এবং সংরক্ষণ করুন"></string>
-    <string name="result">ফলাফল"></string>
+    <string name="recent_files">সাম্প্রতিক ফাইল</string>
+    <string name="recent_files_is_empty">সাম্প্রতিক ফাইল খালি!</string>
+    <string name="cleared">মুছে ফেলা হয়েছে</string>
+    <string name="clear_recent_files_confirm_text">সাম্প্রতিক ফাইল তালিকা মুছে ফেলবে এবং তাদের শেষ সম্পাদিত অবস্থান ভুলে যাবে</string>
+    <string name="match_by_words">শব্দ দ্বারা মিল</string>
+    <string name="cache_your_input_into_editcache_dir_path">আপনার ইনপুট ‘ph_a3f241dc_1’-এ ক্যাশ করুন</string>
+    <string name="switch_reference">রেফারেন্স পরিবর্তন</string>
+    <string name="switch_item">আইটেম পরিবর্তন</string>
+    <string name="count_n">গণনা: ph_a3f241dc_1</string>
+    <string name="reference">রেফারেন্স</string>
+    <string name="faq">প্রশ্নোত্তর</string>
+    <string name="master_password">মাস্টার পাসওয়ার্ড</string>
+    <string name="set_master_password">মাস্টার পাসওয়ার্ড সেট করুন</string>
+    <string name="i_forgot_my_master_password">আমি আমার মাস্টার পাসওয়ার্ড ভুলে গেছি</string>
+    <string name="recommend_go_to_settings_screen_set_a_master_password">নোট: প্রত্যেক ব্যবহারকারীকে সেটিংস স্ক্রিনে গিয়ে মাস্টার পাসওয়ার্ড সেট করার পরামর্শ দিই, এটি আপনার প্রমাণপত্র এনক্রিপ্ট করতে ব্যবহৃত হবে। যদি আপনি এটি সেট না করেন, তবে আপনার প্রমাণপত্রের পাসওয়ার্ড/পাসফ্রেজ একটি পাবলিক পাসওয়ার্ড দ্বারা এনক্রিপ্ট হবে, যা যথেষ্ট নিরাপদ নয়।</string>
+    <string name="old_password">পুরানো পাসওয়ার্ড</string>
+    <string name="new_password">নতুন পাসওয়ার্ড</string>
+    <string name="clear_master_password_confirm">যদি আপনি মাস্টার পাসওয়ার্ড মুছে ফেলেন, তবে পুরানো মাস্টার পাসওয়ার্ড দিয়ে এনক্রিপ্ট করা প্রমাণপত্রের পাসওয়ার্ড/পাসফ্রেজ অ্যাক্সেস করতে পারবেন না, যতক্ষণ না আপনি সেগুলো আপডেট করেন</string>
+    <string name="clear_master_password_ok_text">মুছুন</string>
+    <string name="wrong_password">ভুল পাসওয়ার্ড</string>
+    <string name="require_old_password">পুরানো পাসওয়ার্ড প্রয়োজন</string>
+    <string name="leave_new_password_empty_if_dont_want_to_use_master_password">যদি আপনি মাস্টার পাসওয়ার্ড ব্যবহার করতে না চান তবে নতুন পাসওয়ার্ড খালি রাখুন এবং সংরক্ষণ করুন</string>
+    <string name="result">ফলাফল</string>
     <string name="below_credential_password_update_failed">নিচের প্রমাণপত্রের জন্য পাসওয়ার্ড/পাসফ্রেজ আপডেট ব্যর্থ হয়েছে, আপনার সেগুলোর জন্য পাসওয়ার্ড/পাসফ্রেজ পুনরায় ইনপুট করতে হবে, অন্যথায় এই প্রমাণপত্রগুলো ব্যবহারযোগ্য হবে না:</string>
-    <string name="old_and_new_passwords_are_the_same">পুরানো এবং নতুন পাসওয়ার্ড একই"></string>
-    <string name="clear_master_password">মাস্টার পাসওয়ার্ড মুছুন"></string>
-    <string name="if_set_will_require_master_password_when_launching_app">মাস্টার পাসওয়ার্ড আপনার প্রমাণপত্রের পাসওয়ার্ড/পাসফ্রেজ সুরক্ষিত করতে ব্যবহৃত হয়। সেট করলে, অ্যাপ চালু করার সময় মাস্টার পাসওয়ার্ড ইনপুট প্রয়োজন হবে"></string>
-    <string name="please_make_sure_you_can_remember_your_master_password">অনুগ্রহ করে নিশ্চিত করুন যে আপনি আপনার মাস্টার পাসওয়ার্ড মনে রাখতে পারবেন!!!"></string>
-    <string name="checking_creds_migration">প্রমাণপত্র মাইগ্রেশন পরীক্ষা করছে...</string>
-    <string name="updating_master_password">Updating master password...</string>
-    <string name="verifying">যাচাই করছে...</string>
-    <string name="input_your_master_password">আপনার মাস্টার পাসওয়ার্ড ইনপুট করুন"></string>
-    <string name="enabled">Enabled"></string>
-    <string name="disabled">Disabled"></string>
-    <string name="updated">Updated"></string>
-    <string name="don_t_touch_the_password_passphrase_if_you_dont_want_to_update_it">যদি আপনি পাসওয়ার্ড/পাসফ্রেজ আপডেট করতে না চান তবে তা স্পর্শ করবেন না"></string>
-    <string name="an_opened_eye">একটি খোলা চোখ"></string>
-    <string name="a_closed_eye">একটি বন্ধ চোখ"></string>
-    <string name="push_canceled_by_commit_failed">কমিট ব্যর্থ হওয়ায় পুশ বাতিল হয়েছে"></string>
-    <string name="sync_canceled_by_commit_failed">কমিট ব্যর্থ হওয়ায় সিঙ্ক বাতিল হয়েছে"></string>
+    <string name="old_and_new_passwords_are_the_same">পুরানো এবং নতুন পাসওয়ার্ড একই</string>
+    <string name="clear_master_password">মাস্টার পাসওয়ার্ড মুছুন</string>
+    <string name="if_set_will_require_master_password_when_launching_app">মাস্টার পাসওয়ার্ড আপনার প্রমাণপত্রের পাসওয়ার্ড/পাসফ্রেজ সুরক্ষিত করতে ব্যবহৃত হয়। সেট করলে, অ্যাপ চালু করার সময় মাস্টার পাসওয়ার্ড ইনপুট প্রয়োজন হবে</string>
+    <string name="please_make_sure_you_can_remember_your_master_password">অনুগ্রহ করে নিশ্চিত করুন যে আপনি আপনার মাস্টার পাসওয়ার্ড মনে রাখতে পারবেন!!!</string>
+    <string name="checking_creds_migration">প্রমাণপত্র মাইগ্রেশন পরীক্ষা করছে…</string>
+    <string name="updating_master_password">Updating master password…</string>
+    <string name="verifying">যাচাই করছে…</string>
+    <string name="input_your_master_password">আপনার মাস্টার পাসওয়ার্ড ইনপুট করুন</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="updated">Updated</string>
+    <string name="don_t_touch_the_password_passphrase_if_you_don_t_want_to_update_it">যদি আপনি পাসওয়ার্ড/পাসফ্রেজ আপডেট করতে না চান তবে তা স্পর্শ করবেন না</string>
+    <string name="an_opened_eye">একটি খোলা চোখ</string>
+    <string name="a_closed_eye">একটি বন্ধ চোখ</string>
+    <string name="push_canceled_by_commit_failed">কমিট ব্যর্থ হওয়ায় পুশ বাতিল হয়েছে</string>
+    <string name="sync_canceled_by_commit_failed">কমিট ব্যর্থ হওয়ায় সিঙ্ক বাতিল হয়েছে</string>
 
-    <string name="timezone">TimeZone">টাইমজোন</string>
-    <string name="timezone_offset_in_minutes">কমিট দেখার সময় টাইমজোন অফসেট (মিনিটে)</string>
+    <string name="timezone">টাইমজোন</string>
+    <string name="timezone_offset_in_minutes_when_viewing_commits">কমিট দেখার সময় টাইমজোন অফসেট (মিনিটে)</string>
     <string name="default_str">ডিফল্ট</string>
     <string name="offset_in_minutes">অফসেট (মিনিটে)</string>
     <string name="get_system_timezone_offset">সিস্টেম টাইমজোন অফসেট পান</string>
@@ -999,11 +999,11 @@
     <string name="will_auto_pull_push_linked_repos_when_selected_apps_enter_exit">নির্বাচিত অ্যাপ প্রবেশ/বের হওয়ার সময় লিঙ্কড রিপো স্বয়ংক্রিয়ভাবে পুল/পুশ করবে</string>
     <string name="app_info">অ্যাপ তথ্য</string>
     <string name="intro_go_to_app_info_to_allow_autostart_and_disable_battery_optimization">সম্ভবত আপনি অ্যাপ তথ্যে গিয়ে ‘অটোস্টার্ট অনুমতি’ এবং ‘ব্যাটারি অপ্টিমাইজেশন নিষ্ক্রিয়’ করতে চাইবেন</string>
-    <string name="set_upstream_err_rete_is_invalid">আপস্ট্রিম সেট ত্রুটি, রিমোট অবৈধ</string>
+    <string name="set_upstream_err_remote_is_invalid">আপস্ট্রিম সেট ত্রুটি, রিমোট অবৈধ</string>
     <string name="welcome_please_set_git_username_and_email">স্বাগতম! অনুগ্রহ করে গিট ব্যবহারকারীর নাম এবং ইমেইল সেট করুন! কমিট তৈরির জন্য এটি প্রয়োজনীয়!</string>
     <string name="click_to_switch_selected_unselected_long_click_to_config_linked_repos">নির্বাচিত/অনির্বাচিত পরিবর্তন করতে ক্লিক করুন, নির্বাচিত অ্যাপে দীর্ঘক্ষণ ক্লিক করে লিঙ্কড রিপো কনফিগার করুন</string>
     <string name="cut">কাট</string>
-    <string name="if_unable_to_choose_a_path_just_copy_paste_yourself">যদি পাথ নির্বাচন করতে অক্ষম হন, হয়তো আপনার সিস্টেম ফাইল পিকার সরিয়ে ফেলেছে, ‘ফাইল’ থেকে পাথ কপি করে এখানে পেস্ট করুন</string>
+    <string name="if_unable_choose_a_path_just_copy_paste_instead">যদি পাথ নির্বাচন করতে অক্ষম হন, হয়তো আপনার সিস্টেম ফাইল পিকার সরিয়ে ফেলেছে, ‘ফাইল’ থেকে পাথ কপি করে এখানে পেস্ট করুন</string>
 
     <string name="dev_mode">ডেভ মোড</string>
 
@@ -1019,7 +1019,7 @@
     <string name="err_documentfile_is_null">ত্রুটি: ডকুমেন্টফাইল নাল</string>
     <string name="folder_is_empty">ফোল্ডার খালি</string>
 
-    <string name="aborting">বাতিল করছে...</string>
+    <string name="aborting">বাতিল করছে…</string>
     <string name="abort">বাতিল</string>
 
     <string name="home">হোম</string>
@@ -1055,7 +1055,7 @@
 
     <string name="expected_refspec">আশানুরূপ রেফস্পেক</string>
     <string name="push_force_with_lease_note">শুধুমাত্র তখনই ফোর্স পুশ করবে যখন আপস্ট্রিমের সর্বশেষ কমিট প্রত্যাশিত একটির সাথে মিলে</string>
-    <string name="checking">পরীক্ষা করছে...</string>
+    <string name="checking">পরীক্ষা করছে…</string>
     <string name="nodes">নোড</string>
     <string name="note_pat_instead_of_password">নোট: যদি আপনি ২এফএ সক্রিয় করেছেন, তবে পাসওয়ার্ডের পরিবর্তে একটি পার্সোনাল অ্যাক্সেস টোকেন ব্যবহার করতে হবে। টোকেনের অবশ্যই রিপোজিটরি কনটেন্ট এবং ওয়ার্কফ্লোর জন্য পড়া ও লেখার অনুমতি থাকতে হবে।</string>
     <string name="graph">গ্রাফ</string>
@@ -1063,4 +1063,188 @@
     <string name="leave_empty_to_use_global_settings">গ্লোবাল সেটিংস ব্যবহার করতে খালি রাখুন</string>
     <string name="software_keyboard">সফটওয়্যার কীবোর্ড</string>
     <string name="dynamic_color_scheme">ডায়নামিক কালার স্কিম</string>
+
+
+
+    <string name="merge_branch1_into_branch2">Merge ph_a3f241dc_1 into ph_a3f241dc_2</string>
+    <string name="err_get_export_dir_failed">err:Get export dir failed!</string>
+
+    <string name="get_default_export_folder_failed_plz_choose_one">Get default export folder failed, plz choose one</string>
+    <string name="plz_set_git_username_and_email_first">plz set git username and email first</string>
+
+    <string name="warn_if_tag_name_already_exists_will_override">warn: if tag name already exists, will override</string>
+
+    <string name="rebase_branch1_onto_branch2">Rebase ph_a3f241dc_1 onto ph_a3f241dc_2</string>
+
+    <string name="cherrypick_only_work_for_diff_to_parents">cherrypick only work for diff to parents</string>
+
+    <string name="no_parent_for_find_changes_for_cherrypick">no parent for find changes for cherrypick</string>
+
+    <string name="repo_err_has_unchecked_err">Has Unchecked Error</string>
+    <string name="repo_err_no_err_or_all_checked">No Error or All Checked</string>
+    <string name="file_or_folder_icon">File or Folder Icon</string>
+    <string name="file_or_folder_menu">File or Folder Menu</string>
+    <string name="file_checked_indicator_icon">File checked indicator icon</string>
+    <string name="quit_selection_files_mode">Quit selection files mode</string>
+
+    <string name="err_repo_name_has_illegal_chars_or_too_long">Err:Repo name has illegal chars or too long</string>
+    <!--    <string name="query_repo_for_changelist_err">ChangeList Error When Querying Repo</string>-->
+
+    <!--    diff时，不知道文件是modification还是new还是delete-->
+    <string name="unknown_change_type">Unknown change type</string>
+    <!--    diff line type-->
+    <string name="diff_line_type_add">Add</string>
+    <string name="diff_line_type_del">Del</string>
+    <string name="diff_line_type_hunk_header">HunkHdr</string>
+    <string name="diff_line_type_context">Ctx</string>
+    <string name="old_line_at">OldLineAt</string>
+    <string name="new_line_at">NewLineAt</string>
+    <string name="no_new_line_at_end">\\ No newline at end of file</string>
+    <string name="diff_screen_default_title">Diff</string>
+    <string name="open_repo_failed">Err: Open Repo Failed!</string>
+    <string name="error_has_illegal_chars">Err: has illegal chars</string>
+    <string name="error_cant_create_file_with_this_name">Err: Can\'t create file with this name</string>
+    <string name="unknown_err_plz_try_another_name">Unknown Err: plz try another name</string>
+    <string name="open_file_failed">Err: Open file failed!</string>
+    <string name="error_file_name_has_illegal_chars">Err: file name has illegal chars!</string>
+    <string name="doesnt_support_view_binary_file">Doesn\'t support view binary file</string>
+
+
+    <!--    will replace "ph_a3f241dc_1" to a number of files count ,the final str will shown looks like: "5 files staged" -->
+    <string name="n_files_staged">ph_a3f241dc_1 file(s) staged</string>
+    <string name="revert_n_and_del_m_files">Reverted ph_a3f241dc_1 and deleted ph_a3f241dc_2 files</string>
+    <string name="will_revert_modified_or_deleted_and_rm_new_files_are_you_sure">Will revert \"Modified\" or \"Deleted\" and [REMOVE] \"New\" files, are you sure?(\"Conflict\" items will ignore)</string>
+    <string name="must_resolved_conflict_and_select_them_before_commit">Must resolved conflicts and select them before commit</string>
+    <string name="err_when_querying_settings_from_db">Err when querying settings from db</string>
+
+    <string name="error_unknown_selection">error: unknown selection!</string>
+    <string name="err_upstream_invalid_plz_try_sync_first">err: upstream invalid, plz try sync first</string>
+    <string name="plz_set_username_and_email_first">plz set Username and Email first</string>
+    <string name="unlink_all_ask_text">Will unlink all remotes with current credential, are you sure?</string>
+    <string name="override_link">Override Link</string>
+    <string name="override_link_ask_text">Item already linked with another credential, are you sure change it link to current credential?</string>
+
+    <string name="error_cant_resolve_repo_head">Err: Can\'t resolve repo head</string>
+    <string name="gen_commit_msg_err_commit_abort">Gen commit msg err! commit abort!</string>
+    <string name="warn_please_commit_your_change_before_checkout_or_merge">Warn: please commit your changes before checkout or merge, otherwise may cause [DATA LOSE]!</string>
+    <string name="err_when_querying_repo_info">Error occurred when querying repo info!</string>
+    <string name="err_when_querying_branch_commit_id">Error when querying branch commit id!</string>
+    <string name="cant_set_upstream_for_remote_branch">Cant\'t set upstream for remote branch!</string>
+
+    <!-- 翻成中文：“将会和以下分支合并” ，冒号，后面接分支名 -->
+    <!--    <string name="will_merge">Will merge</string>-->
+    <string name="merge_failed_src_and_target_same">Merge failed: src and target same!</string>
+
+    <string name="del_upstream_require_network_connection">Delete upstream require network connection</string>
+    <string name="del_remote_branch_require_network_connection">Delete remote branch require network connection</string>
+    <string name="del_branch_err_operation_abort">Delete branch err! operation abort!</string>
+    <string name="del_upstream_branch_err_operation_abort">Delete upstream branch err! operation abort!</string>
+    <string name="del_remote_branch_err_operation_abort">Delete remote branch err! operation abort!</string>
+    <string name="query_remote_error">Query remote error!</string>
+    <string name="del_upstream_success">Delete upstream success</string>
+    <string name="del_local_branch_success">Delete local branch success!</string>
+    <string name="del_upstream_failed_upstream_is_invalid">Delete upstream failed! upstream is invalid!</string>
+    <string name="deleting_upstream">Deleting upstream…</string>
+    <string name="remote_name_ambiguous_plz_specify_remote_name">Remote name is ambiguous, plz specify a remote name</string>
+    <string name="remote_name_is_invalid">Err: Remote name is invalid!</string>
+    <string name="push_del_remote_branch_failed">Push:delete remote branch failed!</string>
+    <string name="del_remote_branch_success">Delete remote branch success</string>
+    <string name="err_doesnt_support_open_file_over_limit">Err: Doesn\'t support open file over limit</string>
+    <!--    ph_a3f241dc_1 is a placeholder for selected lines count-->
+    <string name="n_lines_copied">ph_a3f241dc_1 line(s) copied</string>
+    <string name="err_upstream_invalid_plz_go_branches_page_set_it_then_try_again">Err:upstream is invalid, plz go branches page set it then try again!</string>
+    <string name="err_repo_is_invalid">Err: Repo is invalid!</string>
+    <string name="file_override_ask_text">Below files/folders already exists, do you want to override them?</string>
+    <string name="err_dir_is_not_a_git_repo">Err: dir is not a git repo!</string>
+    <string name="open_file_edit_mode_err_maybe_try_view">Open file with edit mode err, maybe you can try view file.</string>
+    <string name="open_file_with_view_mode_err">Open file with view mode err!</string>
+    <string name="open_file_err_not_supported_type_may_try_change_name_to_txt">Open file err! not supported type! may try change file extension to .txt, If you sure it\'s a text file.</string>
+    <string name="open_public_folder_err">err:open public folder failed!</string>
+    <string name="err_cant_get_export_folder">Err: can\'t get export folder!</string>
+    <string name="will_export_files_to">Will export files to</string>
+    <string name="err_target_is_file_but_expect_dir">err:target is a file but expect dir!</string>
+    <string name="require_import_files_list_is_empty">Require import files list is empty!</string>
+
+    <string name="you_can_click_here_copy_err_msg">You can click HERE to copy err msg</string>
+    <string name="err_msg">err msg</string>
+
+    <string name="try_long_press_icon_get_hints">If you don\'t know some icons meaning, try long press for get hints.</string>
+
+    <string name="unshallow_success_cant_back">note: If unshallow success, You can\'t back shallowed again!</string>
+    <string name="will_do_unshallow_for_repos">Will do unshallow for repo(s)</string>
+    <string name="err_file_doesnt_exist_anymore">Err: File doesn\'t exist anymore!</string>
+
+    <string name="sync_failed_by_detached_head">sync failed: detached HEAD!</string>
+    <string name="push_failed_by_detached_head">push failed: detached HEAD!</string>
+
+    <!--    ph_a3f241dc_1 is placeholder for selected lines count-->
+    <string name="will_delete_n_lines_ask">Will delete ph_a3f241dc_1 line(s), are you sure?</string>
+
+    <string name="back_editor_from_external_app_ask_reload">If you edited the file with external app, you might want to reload it to show modified content</string>
+
+    <string name="err_target_is_not_a_file">Err: Target is not a file</string>
+
+    <string name="ask_do_operation_for_selected_conflict_items">Will do operation for selected \'Conflict\' item(s), are you sure?</string>
+    <string name="err_no_conflict_item_selected">err: No Conflict Item Selected!</string>
+    <string name="continue_merge_err">Continue Merge err</string>
+    <string name="err_selected_remote_is_invalid">err: selected remote is invalid</string>
+    <string name="err_restart_app_may_resolve">err! restart app may resolve…</string>
+
+    <string name="err_resolve_remote_failed">Err:resolve remote failed</string>
+    <!--    e.g. branch split by ','-->
+    <string name="branches_split_by_sign">Branches split by \'ph_a3f241dc_1\'</string>
+    <string name="branches_placeholder">branch1,branch2,etc</string>
+    <string name="err_branch_list_is_empty">err:branch list is empty!</string>
+    <string name="err_branches_str_is_invalid">err:branches str is invalid!</string>
+
+    <string name="accept_theirs_pro_only">Accept Theirs(Pro)</string>
+    <string name="accept_ours_pro_only">Accept Ours(Pro)</string>
+    <string name="this_feature_is_pro_only">This feature is Pro-Only</string>
+    <string name="single_branch_pro_only">Single Branch(Pro)</string>
+    <string name="depth_optional_pro_only">Depth (Optional)(Pro)</string>
+    <string name="set_branch_mode_pro_only">Set Branch Mode(Pro)</string>
+
+    <string name="err_init_billing_service_failed">err: init billing service failed!</string>
+    <string name="err_query_product_details_failed">err: Query product details failed!</string>
+
+
+    <!--    products desc-->
+    <string name="pro_per_month_subs_desc"> </string>
+    <string name="pro_per_3_months_subs_desc"> </string>
+    <string name="pro_per_6_months_subs_desc"> </string>
+    <string name="pro_per_year_subs_desc"> </string>
+
+
+    <string name="err_name_is_empty">Err: name is empty!</string>
+    <string name="err_url_is_empty">Err: url is empty</string>
+    <string name="url_not_changed">Url Not Changed</string>
+    <string name="err_invalid_url">Err: invalid url</string>
+    <string name="tags_pro">Tags(Pro)</string>
+    <string name="warn_force_checkout_will_overwrite_uncommitted_changes">warn: force checkout will overwrite uncommitted changes</string>
+
+    <string name="warn_will_override_if_tag_name_already_exists">warn: will override if tag name already exists</string>
+
+    <string name="err_must_set_username_and_email_before_create_annotate_tag">Err: You must set \'username\' and \'email\' for Repo before create \'Annotate Tag\'</string>
+
+    <string name="warn_remote_tag_override_local_tag">warn: Remote will force Override Local same name Tags, even non-fastfowardable</string>
+    <string name="warn_local_tag_override_remote_tag">warn: Local will force Override Remote same name Tags, even non-fastfowardable</string>
+    <string name="note_as_default_remote_will_not_override_local_tags">note: as default, Remote [will not override] Local same name Tags, except you checked \'force\'</string>
+    <string name="note_as_default_local_will_override_remote_tags">note: as default, for lightweight Tags, Local [will override] Remote if fastforwardable</string>
+
+    <string name="note_leave_commit_hash_empty_to_compare_with_local_worktree">note:leave commit hash empty to compare with \'local\' (worktree)</string>
+
+    <!--    example: "FindNext(all:10)" , this str used for editor searching keyword, when long press find next, will show this string-->
+    <string name="find_next_all_count">FindNext(all:ph_a3f241dc_1)</string>
+    <string name="next_conflict_all_count">NextConflict(all:ph_a3f241dc_1)</string>
+
+    <string name="plz_set_email_and_username_then_try_again">plz set email and username then try again</string>
+
+    <string name="leave_msg_empty_will_use_origin_commit_s_msg">leave msg empty will use origin commit\'s msg</string>
+
+    <string name="will_use_your_username_and_email_overwrite_original_commits_author_info">Will use your username and email overwrite original commit\'s author info</string>
+
+    <string name="repo_state_is_merge_but_no_merge_head_found_plz_use_abort_merge_to_clean_state">repo state is MERGE but no merge head found, plz use abort merge to clean state</string>
+    <string name="repo_state_is_rebase_but_no_rebase_head_found_plz_use_abort_rebase_to_clean_state">repo state is REBASE but no rebase head found, plz use abort rebase to clean state</string>
+    <string name="repo_state_is_cherrypick_but_no_cherrypick_head_found_plz_use_abort_cherrypick_to_clean_state">repo state is CHERRYPICK but no cherrypick head found, plz use abort cherrypick to clean state</string>
+
 </resources>
